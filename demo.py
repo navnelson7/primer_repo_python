@@ -7,3 +7,6 @@ oreo = Galleta()
 
 tipo = Galleta()
 
+marias = Galleta()
+
+chiky = Galleta()
